@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDesktopAppByConsole", "LearnDesktopAppByConsole\LearnDesktopAppByConsole.csproj", "{E6425A05-1347-4B7D-B1A9-DD1ACB499459}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAddition1", "SimpleAddition1\SimpleAddition1.csproj", "{E6425A05-1347-4B7D-B1A9-DD1ACB499459}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAddition2", "SimpleAddition2\SimpleAddition2.csproj", "{E86EE62F-0E14-4CA4-AA21-3CF848BA4E15}"
 EndProject
